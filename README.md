@@ -31,8 +31,6 @@ The notebook documents the data-verification process, descriptive evidence mappi
 
 ## Notebook
 
-[[`Nigeria_UK_Master_Analysis_GitHub_Documented.ipynb`](Nigeria_UK_Master_Analysis_GitHub_Documented.ipynb)](https://github.com/mrs-ob/Nigeria_UK_Cancer_Diagnostic_Pathway_Research/blob/main/Cancer_Pathways_Analysis.ipynb)
-
 The notebook contains the following stages:
 
 - Verification of required input files and recording of SHA-256 file hashes.
