@@ -31,6 +31,8 @@ The notebook documents the data-verification process, descriptive evidence mappi
 
 ## Notebook
 
+[Cancer Pathways Analysis Notebook](Cancer_Pathways_Analysis.ipynb)
+
 The notebook contains the following stages:
 
 - Verification of required input files and recording of SHA-256 file hashes.
